@@ -1,3 +1,7 @@
+# enivronments
+.env
+docker.env
+
 # compiled output
 /dist
 /node_modules
